@@ -1,1 +1,2 @@
 # crystalspace
+print("hello world")
